@@ -2,3 +2,38 @@
     margin: 0;
     padding: 0;
 }
+footer{
+    background-color: rgb(37, 181, 203);
+    height: 10vh;
+}
+header{
+    background-color: rgb(37, 181, 203);
+    height: 10vh;
+    display: flex;
+}
+.navbar-item{
+    
+    padding: 20px;
+    list-style: none;
+}
+.navbar-item a{
+    font-size: large;
+    text-decoration: none;
+    color: white;
+}
+.navbar-ul{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    height: 10vh;
+    
+}
+#flipkart-logo{
+    display: inline;
+    
+    width: 60px;
+    margin: 20px;
+}
+.container{
+    min-height: 80vh;
+}

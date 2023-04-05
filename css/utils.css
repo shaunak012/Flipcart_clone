@@ -1,0 +1,8 @@
+.flex-all-center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.Raleway{
+    font-family: 'Raleway', sans-serif;
+}
