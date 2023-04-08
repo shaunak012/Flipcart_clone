@@ -9,8 +9,11 @@ footer{
 header{
     background-color: rgb(37, 181, 203);
     height: 10vh;
+}
+.navbar{
     display: flex;
 }
+
 .navbar-item{
     
     padding: 20px;
@@ -20,6 +23,13 @@ header{
     font-size: large;
     text-decoration: none;
     color: white;
+}
+.navbar-item a:hover{
+    font-size: larger;
+    text-decoration: none;
+    color: wheat;
+    font-weight: 200;
+
 }
 .navbar-ul{
     display: flex;
@@ -33,6 +43,18 @@ header{
     
     width: 60px;
     margin: 20px;
+}
+.search-bar{
+    display: flex;
+    align-items: center;
+    
+}
+#search{
+    width: 544px;
+    height: 32px;
+    margin-left: 60px;
+    border-radius: 10px;
+    
 }
 .container{
     min-height: 80vh;

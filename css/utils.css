@@ -6,3 +6,10 @@
 .Raleway{
     font-family: 'Raleway', sans-serif;
 }
+.button{
+     height: 34px;
+     width: 50px;
+    margin: 22px 0 0 10px ;
+    border-radius: 5px ;
+    cursor: pointer;
+}
