@@ -13,3 +13,9 @@
     border-radius: 5px ;
     cursor: pointer;
 }
+.m-2{
+    margin: 10px;
+}
+.text-center{
+    text-align: center;
+}
